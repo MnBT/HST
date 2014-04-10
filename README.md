@@ -1,4 +1,5 @@
-<h1>Online catalog of companies</h1>
+<h1>HST</h1>
+<h2>Online catalog of companies</h2>
 
 http://hst.mnb-t.com/old-hst/profile.html
 
